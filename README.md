@@ -2,7 +2,6 @@
  👋 Hi there!
  </h1>
 
-🎓 Currently pursuing dual degrees in Cyber Security at SLIIT and Applied Science at the University of Sri Jayewardenepura, I bring a unique, dual-disciplinary perspective to the world of technology.
 
 💻 With hands-on experience in  Linux, web security, and Networking and Network Security. I'm passionate about solving complex security problems efficiently.
 
